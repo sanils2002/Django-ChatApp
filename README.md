@@ -6,10 +6,8 @@ user can search other users and add them as a friend and have
 one to one chat with their friends.
 
 ## Screenshots
+![image](https://github.com/sanils2002/Django-ChatApp/blob/master/Images/search.jpg)
 
-![image](Images/search.jpg)
-
-![image](Images/chat.jpg)
 
 ## Installation
 
